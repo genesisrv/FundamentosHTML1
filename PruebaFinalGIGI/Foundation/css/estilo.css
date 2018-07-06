@@ -1,0 +1,51 @@
+body{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment:fixed;
+  width: 100%;
+  height: 100%;
+}
+
+.border{
+  border: white solid 2px;
+  margin-top: 5px;
+
+}
+
+.contenedor{
+  background-color: RGB(205, 92, 92, 0.3);
+}
+.buscador{
+  overflow: hidden;
+}
+a{
+  color: black;
+}
+.callout{
+  background: none;
+  border: none;
+}
+#favorito img{
+  margin: 5px;
+}
+
+
+.lista{
+  list-style: none;
+
+}
+#active li:hover{
+    background:#D6EAF8;
+}
+.fecha{
+  color:#D6EAF8;
+}
+.post{
+  margin: 5px;
+  padding: 5px;
+  background-color: rgb(214, 234, 248,0.3);
+  border: white solid 1px;
+
+}

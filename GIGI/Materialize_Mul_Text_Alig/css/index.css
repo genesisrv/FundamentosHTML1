@@ -1,0 +1,30 @@
+.barra-superior{
+  min-height: 4rem;
+}
+div[class*="columna"]{
+  min-height: 50rem;
+
+
+}
+div[class*="bloque"]{
+  height: 25rem;
+}
+.columna-chat, .columna-news{
+  padding: 0 !important!;
+}
+.contenedor{
+
+  min-height: 7rem;
+}
+.contenedores{
+  min-height: 17rem;
+  padding: 2rem;
+}
+img{
+  margin-top: 5rem;
+}
+.contenedor-news{
+  min-height: 50rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+}
